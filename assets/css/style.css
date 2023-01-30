@@ -214,7 +214,7 @@ body.show-nav .header {
     height: 350px;
 
     background: #000 
-    url("../images/introbg/news-intro-blog.jpg")
+    url("../images/introbg/track-intro-blog.jpg")
      no-repeat center;
     background-size: cover;
 }
@@ -1036,7 +1036,7 @@ body.show-nav .header {
 }
 
 
-/* News */
+/* track */
 
 .article {
     display: flex;
